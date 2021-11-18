@@ -3,7 +3,7 @@ Some apps like Twitch don't fully close when you hit Alt+F4
 That's why I created this tool to "kill" the foreground window instantly using
 
 ## Usage
-1. Download the lastest release of the program
+1. Download the [lastest release of the program](//github.com/Antosser/super-alt-f4/releases/latest)
 1. Open the executable
 1. Now you can force-close any program using `Ctrl Alt F4`
 
