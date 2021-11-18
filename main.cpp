@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include <iostream>
+//#include <iostream>
 #include <thread>
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
